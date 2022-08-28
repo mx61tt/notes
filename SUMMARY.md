@@ -3,7 +3,8 @@
 ## Welcome
 
 * [About](README.md)
+* [Checklist](welcome/checklist.md)
 
-## Blockchain Fundamentals
+## Ethereum Fundamentals
 
-* [What is blockchain?](blockchain-fundamentals/what-is-blockchain.md)
+* [What is blockchain?](ethereum-fundamentals/what-is-blockchain.md)
