@@ -3,6 +3,7 @@
 ### Ethereum Fundamentals
 
 * [ ] [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+* [ ] [Ethereum Development Documentation](https://ethereum.org/pt/developers/docs/)
 
 ### Solidity
 

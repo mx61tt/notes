@@ -7,4 +7,4 @@
 
 ## Ethereum Fundamentals
 
-* [What is blockchain?](ethereum-fundamentals/what-is-blockchain.md)
+* [What is blockchain?](blockchain-fundamentals/what-is-blockchain.md)
