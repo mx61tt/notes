@@ -4,6 +4,8 @@
 
 * [ ] [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [ ] [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
+* [ ] [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
+* [ ] [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 ### Solidity
 
