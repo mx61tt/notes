@@ -6,7 +6,7 @@
 
 ## Ethereum Fundamentals
 
-* [Checklist](ethereum-fundamentals/checklist.md)
+* [Checklist](welcome/checklist.md)
 
 ## Rust based chains
 
