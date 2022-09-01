@@ -31,9 +31,3 @@
 * [ ] [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 * [ ] [Paradigm](https://github.com/paradigmxyz/paradigm-ctf-2021)
 
-### Full Stack Development
-
-* [ ] [React](https://reactjs.org/docs/getting-started.html)
-* [ ] [HTML + CSS](https://developer.mozilla.org/en-US/)
-* [ ] [Figma](https://www.figma.com/resources/learn-design/)
-* [ ] [Tailwind CSS](https://tailwindcss.com/docs/installation) (optional)
