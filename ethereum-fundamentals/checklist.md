@@ -24,7 +24,6 @@
 * [ ] [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
 * [ ] [Hardhat](https://hardhat.org/docs)
 * [ ] [Foundry](https://github.com/foundry-rs/foundry)
-* [ ] [Tenderly](https://tenderly.co/)
 
 ### CTFs
 
