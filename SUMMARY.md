@@ -7,11 +7,4 @@
 ## Ethereum Fundamentals
 
 * [Checklist](welcome/checklist.md)
-
-## Rust based chains
-
-* [Checklist](rust-based-chains/checklist.md)
-
-## Full Stack Development
-
-* [Checklist](full-stack-development/checklist.md)
+* [Foundry for Auditors](ethereum-fundamentals/foundry-for-auditors.md)
