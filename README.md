@@ -1,6 +1,6 @@
 # About
 
-This page will be filled with content focused on blockchain, smart contracts, references, and the best materials to learn outside from here.
+This book will be filled with content focused on blockchain, smart contracts, references, and the best materials to learn outside from here.
 
 My name is **mx61tt**, and my intention with this page is to share all my progress through my path to become a smart contract auditor.
 

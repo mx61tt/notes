@@ -1,7 +1,5 @@
 # Table of contents
 
-## Welcome
-
 * [About](README.md)
 
 ## Ethereum Fundamentals
