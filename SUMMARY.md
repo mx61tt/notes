@@ -2,9 +2,9 @@
 
 * [About](README.md)
 
-## Ethereum Fundamentals
+## Ethereum
 
-* [Checklist](welcome/checklist.md)
-* [Foundry for Auditors](ethereum-fundamentals/foundry-for-auditors/README.md)
-  * [Installation](ethereum-fundamentals/foundry-for-auditors/installation.md)
-  * [Introduction](ethereum-fundamentals/foundry-for-auditors/introduction.md)
+* [Checklist](ethereum/checklist.md)
+* [Foundry for Auditors](ethereum/foundry-for-auditors/README.md)
+  * [Installation](ethereum/foundry-for-auditors/installation.md)
+  * [Introduction](ethereum/foundry-for-auditors/introduction.md)
