@@ -32,5 +32,6 @@
 
 * [ ] [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 * [ ] [Ethereum Improvement Proposals (EIPs)](https://eips.ethereum.org/)
+* [ ] [The EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
 
 Inspired by [this](https://github.com/razzorsec/AuditorsRoadmap) roadmap.&#x20;
