@@ -27,7 +27,7 @@ foundry_demo/
 
 #### Lib folder
 
-This is where all your dependencies of your project will be. e.g. OpenZeppelin libraries.
+This is where all the dependencies of your project will be. e.g. OpenZeppelin libraries.
 
 #### Script folder
 

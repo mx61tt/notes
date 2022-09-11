@@ -35,3 +35,5 @@
 * [ ] [The EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
 
 Inspired by [this](https://github.com/razzorsec/AuditorsRoadmap) roadmap.&#x20;
+
+Link to my notion checklist can be found [here](https://mx61tt.notion.site/Checklist-Smart-Contract-Auditor-80aa5ea69eac472abc337ba0bb5a7cb9).
