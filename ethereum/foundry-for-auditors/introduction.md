@@ -10,7 +10,7 @@ Foundry uses Solidity language for everything that we will perform. This is good
 
 Let's create a demo project.&#x20;
 
-```
+```bash
 forge init foundry_demo
 ```
 
