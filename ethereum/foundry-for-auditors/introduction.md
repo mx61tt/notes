@@ -1,12 +1,12 @@
 # Introduction
 
-For those who are not familiar with Foundry, after finish the installation you will get three tools: **`anvil`**, **`cast`** and **`forge`**.&#x20;
+For those who are not familiar with Foundry, after finishing the installation you will get three tools: **`anvil`**, **`cast`**, and **`forge`**.&#x20;
 
 * **anvil** - runs a local node, similar to ganache.&#x20;
-* **cast** - is like the _netcat_ for Foundry. You can interact with the blockchain without code, convert data types, read storage from the blockchain.&#x20;
-* **forge** - initiates, manage your project, deploy and test your contracts.&#x20;
+* **cast** - is like the _netcat_ for Foundry. You can interact with the blockchain without code, convert data types, and read storage from the blockchain.&#x20;
+* **forge** - initiates, manages your project, deploys, and tests your contracts.&#x20;
 
-Foundry uses Solidity language for everything that we will perform. This is good because we don't need to pick a language like Python or Javascript to have a professional development  and testing environment. So if you know Solidity, you're good to go!&#x20;
+Foundry uses Solidity language for everything that we will perform. This is good because we don't need to pick a language like Python or Javascript to have professional development and testing environment. So if you know Solidity, you're good to go!&#x20;
 
 Let's create a demo project.&#x20;
 
@@ -39,11 +39,11 @@ This is where the contracts will be. e.g. vulnerable contracts. The files ends w
 
 #### Test folder
 
-This is where the code for interact with the contracts off-chain will be, to perform some type of tests like fuzzing or for validate the existence of any possible flaws. e.g. initial step to understand the vulnerability and how to exploit. The files ends with the extension ".t.sol".
+This is where the code for interacting with the contracts off-chain will be, to perform some type of tests like fuzzing or to validate the existence of any possible flaws. e.g. initial step to understanding the vulnerability and how to exploit it. The files ends with the extension ".t.sol".
 
 #### _foundry.toml_ file
 
-Configuration file of the project. For more information, [click here](https://book.getfoundry.sh/config/).
+The configuration file of the project. For more information, [click here](https://book.getfoundry.sh/config/).
 
 
 
