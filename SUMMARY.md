@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About](README.md)
+* [Future articles](future-articles.md)
 
 ## Ethereum
 
