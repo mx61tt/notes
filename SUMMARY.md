@@ -1,12 +1,8 @@
 # Table of contents
 
 * [About](README.md)
-* [Future articles](future-articles.md)
 
-## Ethereum
+## 📱 MOBILE
 
-* [Checklist](welcome/checklist.md)
-* [Foundry for Auditors](ethereum-fundamentals/foundry-for-auditors.md)
-  * [Installation](ethereum/foundry-for-auditors/installation.md)
-  * [Introduction](ethereum/foundry-for-auditors/introduction.md)
-  * [Testing a contract](ethereum/foundry-for-auditors/testing-a-contract.md)
+* [Android](mobile/android/README.md)
+  * [Android Studio on Kali](mobile/android/android-studio-on-kali.md)
