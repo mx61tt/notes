@@ -1,8 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+## 📱 MOBILE PENTESTING
 
-## 📱 MOBILE
-
-* [Android](mobile/android/README.md)
-  * [Android Studio on Kali](mobile/android/android-studio-on-kali.md)
+* [Android](README.md)
+  * [Installation on Kali](mobile-pentesting/android/installation-on-kali.md)
